@@ -1,4 +1,4 @@
-from personGenerator import PersonGenerator
+from src.personGenerator import PersonGenerator
 
 personGenerator = PersonGenerator()
 
